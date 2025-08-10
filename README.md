@@ -1,2 +1,2 @@
-# Openbox-Configuration-Manager
+# binder
 A little keybind configurator for Openbox.
