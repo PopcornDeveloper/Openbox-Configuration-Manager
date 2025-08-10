@@ -1,2 +1,2 @@
 # binder
-A little keybind configurator for Openbox.
+A little configurator for Openbox, written in Python.
